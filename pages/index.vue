@@ -9,7 +9,6 @@
         mauro cotzia
       </h2>
 
-      <p>deploy</p>
     </div>
   </div>
 </template>
