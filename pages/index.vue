@@ -6,7 +6,7 @@
         PRIMO TEST
       </h1>
       <h2 class="subtitle">
-       Mauro
+       Mau
       </h2>
 
     </div>
