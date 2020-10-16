@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        PRIMO TEST
       </h1>
       <h2 class="subtitle">
-        PRIMO TEST
+        mauro cotzia
       </h2>
       <div class="links">
         <a
