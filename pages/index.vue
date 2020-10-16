@@ -6,7 +6,7 @@
         PRIMO TEST
       </h1>
       <h2 class="subtitle">
-       Mau
+       Mauro Cotzia
       </h2>
 
     </div>
